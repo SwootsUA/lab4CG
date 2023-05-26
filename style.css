@@ -63,7 +63,7 @@ p {
 }
 
 .tall {
-    height: 3800px !important;
+    height: fit-content !important;
 }
 
 .justify {
